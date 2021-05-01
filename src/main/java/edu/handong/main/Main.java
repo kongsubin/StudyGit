@@ -95,6 +95,7 @@ public class Main {
 		}
 		
 			System.out.println("solve the problem issue2");
+			System.out.println("solve the problem issue3");
 	}
 	
 	
