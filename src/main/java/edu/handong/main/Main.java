@@ -94,6 +94,7 @@ public class Main {
 				System.out.println("There is no Cafe !!");
 		}
 		
+			System.out.println("solve the problem issue2");
 	}
 	
 	
